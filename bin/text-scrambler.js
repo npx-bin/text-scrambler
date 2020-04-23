@@ -1,5 +1,5 @@
 /**
- * Text Scrambler v1.2.1
+ * Text Scrambler : An isomorphic text scrambling utility for both Browser & NodeJS environments.
  *
  * Author: kcak11 (https://kcak11.com)
  * License: MIT (https://mit-license.kcak11.com)
