@@ -1,6 +1,6 @@
 {
   "name": "@kcak11/text-scrambler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An isomorphic text scrambling utility for both Browser & NodeJS environments.",
   "main": "index.js",
   "scripts": {
