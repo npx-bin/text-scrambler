@@ -136,8 +136,8 @@ PipedData.base64decode = function (data) {
  * var result = scramble(originalMessage, "my secret key").raw();
  * console.log(result);
  *
- * scramble(result,"some other key") === originalMessage //false since key did not match
- * scramble(result,"my secret key") === originalMessage //true since the key matched
+ * scramble(result, "some other key").raw() === originalMessage //false since the key did NOT match.
+ * scramble(result, "my secret key").raw() === originalMessage //true since the key MATCHED.
  *
- * For more detailed usage instructions, read the README.md file.
+ * For more detailed usage instructions, refer the README.md file.
  */
