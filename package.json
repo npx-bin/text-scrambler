@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "An isomorphic text scrambling utility for both Browser & NodeJS environments.",
   "main": "index.js",
-  "bin": {
-    "text-scrambler": "text-scrambler.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
