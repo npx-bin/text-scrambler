@@ -1,0 +1,26 @@
+{
+  "name": "@kcak11/text-scrambler",
+  "version": "1.2.1",
+  "description": "An isomorphic text scrambling utility for both Browser & NodeJS environments.",
+  "main": "index.js",
+  "bin": {
+    "text-scrambler": "text-scrambler.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npx-bin/text-scrambler.git"
+  },
+  "keywords": [
+    "scramble",
+    "encrypt",
+    "decrypt",
+    "security",
+    "browser",
+    "nodejs"
+  ],
+  "author": "K.C.Ashish Kumar (https://kcak11.com)",
+  "license": "MIT"
+}
